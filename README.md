@@ -1,2 +1,3 @@
-# spain-energy-demand
-⚡ Spain energy demand dataset, by the hour
+# Spain Energy Demand Dataset
+
+Detailed energy demand on Spain since 2014 obtained from the [REData API](https://www.ree.es/en/apidatos).
