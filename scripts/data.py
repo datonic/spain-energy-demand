@@ -23,4 +23,4 @@ while start_date < yesterday:
     end_date = start_date + pd.DateOffset(days=15)
     end_date_str = end_date.strftime('%Y-%m-%d')
 
-df.to_csv('../data/spain-energy-demand.csv', index=False)
+df.to_csv('data/spain-energy-demand.csv', index=False)
