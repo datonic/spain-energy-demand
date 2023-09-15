@@ -1,0 +1,22 @@
+name: spain-energy-demand
+kind: FrictionlessDatapackage
+kindVersion: 1.0.0
+title: Spain Energy Demand
+sources:
+  - title: REData API
+    path: https://www.ree.es/es/apidatos
+resources:
+  - name: spain-energy-demand
+    type: table
+    path: data/spain-energy-demand.csv
+    archiveCID: bafybeif5reawvqtsoybj5fhdl4ghaq3oc7kzepuws26zawkjm4johlv3uq
+    scheme: file
+    format: csv
+    mediaType: text/csv
+    encoding: utf-8
+    schema:
+      fields:
+        - name: datetime
+          type: string
+        - name: value
+          type: integer
