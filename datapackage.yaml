@@ -9,7 +9,7 @@ resources:
   - name: spain-energy-demand
     type: table
     path: data/spain-energy-demand.csv
-    archiveCID: bafybeigjcvk5nl62pwzodjcn7zgstelbmejkdel4v2lskolgnueu6top4u
+    archiveCID: bafybeib5s3rtmo3ppgiertsuyrekz57g5jxlgiq2nhvhn5cohc3dhseeda
     scheme: file
     format: csv
     mediaType: text/csv
