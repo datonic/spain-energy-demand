@@ -1,4 +1,4 @@
 pandas
 frictionless
-jupyterlab
+# jupyterlab
 requests
